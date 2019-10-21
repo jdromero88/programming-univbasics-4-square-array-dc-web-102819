@@ -6,5 +6,5 @@ def square_array(array)
     new_arreglo[i] = array[i]**2
     i += 1
   end
-    puts new_arreglo
+  return new_arreglo
 end
